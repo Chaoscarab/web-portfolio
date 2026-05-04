@@ -1,0 +1,31 @@
+links and notes
+
+
+how to to update a cloudflare record if you have a dynamic ip :https://theawesomegarage.com/blog/godaddy-terminated-my-free-dns-management-api-now-what
+
+
+beginner bash scripting:
+https://help.ubuntu.com/community/Beginners/BashScripting
+
+
+make a bash script: 
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/run-Unix-shell-script-Linux-Ubuntu-command-chmod-777-permission-steps
+
+
+ubuntu server hardening:
+https://www.nuharborsecurity.com/blog/ubuntu-server-hardening-guide-2
+
+
+using ufw (uncomplicated firewall):
+https://linuxconfig.org/ubuntu-24-04-firewall-a-quick-guide 
+ --manages iptables
+        --iptables:
+            ##unnessessary
+            https://help.ubuntu.com/community/IptablesHowTo
+        --installing: iptables-persistent
+            https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands
+
+
+
+configuring ssh server:
+https://serverastra.com/docs/Tutorials/Setting-Up-and-Securing-SSH-on-Ubuntu-22.04%3A-A-Comprehensive-Guide
